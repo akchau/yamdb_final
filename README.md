@@ -1,5 +1,8 @@
 ![.github/workflows/main.yml](https://github.com/akchau/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Проект выложен по адресу
+http://84.201.134.135/admin/
+
 # yamdb
 
 Проект для коллекционеров искуства
@@ -13,7 +16,7 @@ cd yamdb_final
 
 2. Создайте файл виртупльного окружения. Запишите в него ваши переменные.
 ```bash
-touch infra/.env
+cd infra/
 cp example.env .env
 ```
 
